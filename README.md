@@ -94,7 +94,7 @@ This project is open for personal and educational use.
 
 ## Author
 
-[Your Name]
+[Gyan Chandra]
 
 ---
 
